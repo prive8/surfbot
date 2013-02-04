@@ -1,12 +1,12 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "name": "surfbot",
+  "version": "0.1.0",
+  "description": "OpenShift TT.fm Surfbot",
   "keywords": [
     "OpenShift",
     "Node.js",
     "application",
-    "openshift"
+    "tt.fm"
   ],
   "author": {
     "name": "steven pierce",
@@ -16,7 +16,7 @@
   "homepage": "http://openshift.redhat.com/",
   "repository": {
     "type": "git",
-    "url": "https://gitub.com/prive8/surfbot"
+    "url": "git://github.com/prive8/surfbot.git"
   },
 
   "engines": {
